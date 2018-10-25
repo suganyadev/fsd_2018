@@ -1,0 +1,6 @@
+com\example\demo\TaskService.class
+com\example\demo\Task.class
+com\example\demo\ParentTask.class
+com\example\demo\TaskRepository.class
+com\example\demo\TaskmanagerApplication.class
+com\example\demo\Controller.class
