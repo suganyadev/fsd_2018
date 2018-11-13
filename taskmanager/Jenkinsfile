@@ -15,7 +15,7 @@ pipeline {
         }
         stage ('Build') {
             steps {
-                    bat 'mvn install'
+                    bat 'cd taskmanager && mvn install'
             }
         }
         stage ('Docker-Build') {
